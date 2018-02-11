@@ -11,10 +11,7 @@ https://www.kaggle.com/maxkapsecker/starter-feature-engineering-ensemble
 
 ## Supposed folder structure
 
-- Energy-Prediction-Semiconductor
-  -- input
-    -- test
-    -- train
+![alt text](https://github.com/NumericalMax/Energy-Prediction-Semiconductor/blob/master/folder_structure.png)
 
 ## Outcome
 The outcome are the predictions for the formation- and bandgap energies of the testdata. The data are stored in a txt file, which can be directly submitted to the competition.
